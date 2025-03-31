@@ -11,15 +11,15 @@
 ## Structure of single opinion in Ceneo.pl
 |Component|Variable|Selector|
 |---------|--------|--------|
-|opinion|opinion|div|
-|opinion ID|opinion_id||
-|opinion’s author|author||
-|author’s recommendation|recommend||
-|score expressed in number of stars|stars||
-|opinion’s content|content||
-|list of product advantages|pros||
-|list of product disadvantages|cons||
-|how many users think that opinion was helpful|up_votes||
-|how many users think that opinion was unhelpful|down_votes||
-|publishing date|published||
-|purchase date|purchased||
+|opinion|opinion|div.js_product-review:not(.user-post--highlight)|
+|opinion ID|opinion_id|["data-entry-id"]|
+|opinion’s author|author|spam.user-post__autjor-name|
+|author’s recommendation|recommend|spam.user-post__autjor-recomendation>em|
+|score expressed in number of stars|stars|span.user-post__score-count|
+|opinion’s content|content|.class="user-post__text"|
+|list of product advantages|pros|div.review-feature__item--positive|
+|list of product disadvantages|cons|iv.review-feature__item--negative|
+|how many users think that opinion was helpful|up_votes|button.vote-yes["data-total-vote"]|
+|how many users think that opinion was unhelpful|down_votes|button.vote-no["data-total-vote"]|
+|publishing date|published|span.user-post__published > time:nth-child(1)["datetime"]|
+|purchase date|purchased|span.user-post__published > time:nth-child(2)["datetime"]|
