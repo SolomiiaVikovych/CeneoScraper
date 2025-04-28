@@ -1,0 +1,886 @@
+[
+    {
+        "opinion_id": "14213167",
+        "author": "f...2",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Pierwsza klasa! solidnie wykonany, wszystko sprawne w 100%, wart swojej ceny. Polecam.",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "jakość",
+            "przemyślana budowa",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 0,
+        "published": "2021-03-31 22:23:16",
+        "purchased": "2021-03-21 12:49:28",
+        "content_en": "First class! Solidly made, everything is 100%functional, worth the price. I recommend.",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "quality",
+            "thoughtful construction",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "11301092",
+        "author": "Andrzej",
+        "recommend": null,
+        "stars": 3.5,
+        "content_pl": "Niestety moja opinia jest niewiarygodna.\r\nGril zakupiony przeze mnie, był prezentem urodzinowym dla przyjaciela. Nie został jeszcze nawet rozpakowany, dlatego nie mogę podać wiarygodnej oceny.\r\nMam nadzieję,  że wszystko jest w porządku, sprawne, ładnie wyglądający na którym można przygotować smaczne potrawy. Pozdrawiam. Andrzej Kamiński.",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "jakość",
+            "przemyślana budowa"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 13,
+        "published": "2019-11-20 20:27:43",
+        "purchased": "2019-10-29 10:05:17",
+        "content_en": "Unfortunately, my opinion is unbelievable.\r\nThe grill purchased by me was a birthday present for a friend. It has not even been unpacked, so I can't give a reliable assessment.\r\nI hope that everything is fine, functional, nice looking on which you can prepare tasty dishes. Regards. Andrzej Kamiński.",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "quality",
+            "thoughtful construction"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "14432368",
+        "author": "Ewa",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Mam ten grill zaledwie od tygodnia i trudno wystawić rzetelną ocenę po pierwszym użyciu. Niemniej jednak pierwsze grillowanie zdecydowanie na plus, nie ma nawet porównania z grillem węglowym. Mam nadzieję, że będę się tylko utwierdzać w przekonaniu, że to był trafiony zakup.",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "jakość",
+            "przemyślana budowa",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2021-05-10 09:59:18",
+        "purchased": "2021-04-27 12:25:26",
+        "content_en": "I have this grill for only a week and it is difficult to give a reliable rating after the first use. Nevertheless, the first grilling is definitely a plus, there is not even a comparison with a carbon grill. I hope that I will only confirm my belief that it was a good purchase.",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "quality",
+            "thoughtful construction",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "8024783",
+        "author": "waldi",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Grill warty swojej ceny. Bardzo solidny i dobrze wykonany. Atrakcyjny wygląd. Rewelacja w przyrządzaniu potraw. Miałem obawy przed zakupem gila gazowego ale obecnie wszystkie wątpliwości zostały rozwiane. polecam",
+        "pros_pl": [
+            "przemyślana budowa",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2018-06-06 21:40:18",
+        "purchased": "2018-05-18 15:32:40",
+        "content_en": "A grill worth the price. Very solid and well made. Attractive appearance. A revelation in preparing dishes. I was concerned about buying a gas gil but now all doubts were dispelled. I recommend",
+        "pros_en": [
+            "thoughtful construction",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "7987788",
+        "author": "piotr",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Używałem do tej pory niedużo, ale wygląd świetny, łatwy w rozpaleniu, a co najważniejsze mięso przygotowuje się bardzo szybko, a smak nie odbiega niczym od tradycyjnego grilla.",
+        "pros_pl": [
+            "duży ruszt",
+            "jakość",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 0,
+        "published": "2018-05-24 11:15:58",
+        "purchased": "2018-05-15 17:07:53",
+        "content_en": "I used so far not much, but the look is great, easy to light, and most importantly, the meat is prepared very quickly, and the taste does not differ from the traditional grill.",
+        "pros_en": [
+            "large grate",
+            "quality",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12645059",
+        "author": "p...2",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Super produkt, nie tylko wygląda ale i jest porządny. Najważniejsze cechy wg. mnie to żeliwne ruszta oraz szafka w której mieści się butla. Duzym plusem jest również \"zbiorniczek na tłuszcz\"\nPolecam bardzo",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 0,
+        "published": "2020-06-14 16:52:49",
+        "purchased": "2020-04-21 12:14:02",
+        "content_en": "Great product, not only looks but also decent. The most important features according to I am a cast iron grate and a cabinet in which a cylinder is located. A \"fat tank\" is also a big plus\nI recommend it very much",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "14235787",
+        "author": "z...3",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "Jeszcze nie użytkowany ale wykonany solidnie. Jedynie do czego można się doczepić to do instrukcji montażu, która nie jest dopracowana przez co montaż wydłuża się. Dlatego pół gwiazdki mniej.",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "jakość",
+            "przemyślana budowa",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2021-04-06 11:20:37",
+        "purchased": "2021-03-21 12:57:41",
+        "content_en": "Not yet used but solidly made. Only what you can attach to is the assembly instructions, which is not refined, so the assembly extends. That's why half a star less.",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "quality",
+            "thoughtful construction",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "3173401",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Grill gazowy Triton jest zawsze gotowy do grillowania. Wystarczy go ustawić w ogrodzie czy na tarasie, przekręcić kurek, odczekać kilka minut aż ruszt się nagrzeje i można grillować. W pokrywie wbudowany jest termometr, który pozwala precyzyjnie ustawić temperaturę i kontrolować jej wzrost. Dzięki temu mam pewność, że jedzenie nie przypiecze się nadmiernie i nie będzie też surowe. W czasie, kiedy opiekam mięso czy warzywa mogę na bocznej półce pokroić pieczywo czy owoce. Zaletą jest też dodatkowy palnik boczny. Butla gazowa jest ustawiona w szafce więc nie ma problemu z jej przenoszeniem. Ogólnie jest to bardzo dobre rozwiązanie, które przez wiele lat będzie dobrze służyć.",
+        "pros_pl": [
+            "duży ruszt",
+            "przemyślana budowa",
+            "szybkie rozpalenie"
+        ],
+        "cons_pl": [],
+        "up_votes": 4,
+        "down_votes": 3,
+        "published": "2015-06-02 09:28:26",
+        "purchased": null,
+        "content_en": "Triton gas grill is always ready for grilling. Just set it in the garden or on the terrace, twist the tap, wait a few minutes until the grate warms up and you can grill. A thermometer is built in the cover, which allows you to accurately set the temperature and control its growth. Thanks to this, I am sure that the food does not bake excessively and will not be strict either. At a time when I take care of meat or vegetables, I can cut bread or fruit on the side shelf. An additional side burner is also an advantage. The gas cylinder is placed in the cabinet so there is no problem with carrying it. In general, this is a very good solution that will serve well for many years.",
+        "pros_en": [
+            "large grate",
+            "thoughtful construction",
+            "rapid lighting"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12201214",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Grill ogromny. Wykonanie solidne. Brak instrukcji dołączonej do niego, ale internetowa instrukcja dała radę. Montaż okazał się prosty. Polecam!",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 0,
+        "published": "2020-04-20 15:27:22",
+        "purchased": "2020-04-13 10:54:53",
+        "content_en": "Huge grill. Solid execution. No instructions attached to it, but the online instructions managed. The assembly turned out to be simple. I recommend!",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16097032",
+        "author": "d...a",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Dopiero rozpocząłem użytkowanie, ale pierwsze grillowanie wyszło super. Bardzo polecam Landmann Triton. Świetnie komponuje się na tarasie...",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-05-18 07:45:55",
+        "purchased": "2022-05-08 19:45:05",
+        "content_en": "I just started use, but the first grilling came out great. I highly recommend Landmann Triton. It goes well on the terrace ...",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12028790",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Grill naprawdę ok. Złożenie zajęło 1h, części wystarczająco dobrze spasowane. Wygoda użytkowania, nieoceniona. Polecam.",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 0,
+        "published": "2020-03-31 20:16:12",
+        "purchased": "2020-03-09 21:25:08",
+        "content_en": "The grill was really ok. Folding took 1h, parts fitted enough. Convenience of use, invaluable. I recommend.",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "3274930",
+        "author": "agnieszka",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "produkt spelnia oczekiwania dobrze grzeje troche brak zaczepow na scierki i polki na przyprawy",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 3,
+        "down_votes": 0,
+        "published": "2015-08-12 17:30:57",
+        "purchased": "2015-08-06 14:04:56",
+        "content_en": "The product fulfills the expectations well heats a little bit of no hooks for fumes and polka spices",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12454926",
+        "author": "g...k",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Bardzo dobry praktyczny grill , osiąga temp. nawet do 250-280 stopni C.  Firma sprzedająca OK. Polecam.",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 2,
+        "down_votes": 0,
+        "published": "2020-05-18 16:42:41",
+        "purchased": "2020-04-16 21:17:30",
+        "content_en": "Very good practical grill, reaches up to 250-280 degrees C. The company selling OK. I recommend.",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16299020",
+        "author": "j.bogusiewicz@dth-selection.pl",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Po miesiacu oczekiwania produkt spełnia oczekiwania. Solidnie wykonany, duży ruszt, szybko łapie temperaturę. Polecam.",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "jakość",
+            "przemyślana budowa",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-07-09 08:20:08",
+        "purchased": "2022-06-15 11:08:25",
+        "content_en": "After a month of waiting, the product meets expectations. Solidly made, large grate, quickly catches the temperature. I recommend.",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "quality",
+            "thoughtful construction",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "14436062",
+        "author": "j...3",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Produkt godny polecenia, wystawiam ocenę bardzo dobrą. Grill jest duży, wykonany z dobrych materiałów. Solidny grill",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "jakość",
+            "przemyślana budowa",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2021-05-10 23:03:48",
+        "purchased": "2021-04-21 09:54:57",
+        "content_en": "A product worth recommending, I give a very good grade. The grill is large, made of good materials. Solid grill",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "quality",
+            "thoughtful construction",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "14345598",
+        "author": "k...7",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "Jedyne zastrzeżenia do śrubek które nie są magnetyczne przez co ciężej się go składa, poza tym wszystko warte ceny.",
+        "pros_pl": [
+            "duży ruszt",
+            "jakość",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 2,
+        "published": "2021-04-23 11:18:12",
+        "purchased": "2021-04-20 12:27:05",
+        "content_en": "The only reservations about the screws that are not magnetic, which makes it harder to fold, and everything is worth the price.",
+        "pros_en": [
+            "large grate",
+            "quality",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "8177277",
+        "author": "Krystyna",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Produkt adekwatny do swojej ceny.",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 1,
+        "down_votes": 1,
+        "published": "2018-07-25 13:04:00",
+        "purchased": "2018-07-18 12:55:22",
+        "content_en": "The product is adequate to its price.",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16506242",
+        "author": "g...r",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Świetny grill polecam z dodatkiem wędzarki nie się czego przyczepić 👍",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-09-09 18:31:54",
+        "purchased": "2022-08-09 23:00:27",
+        "content_en": "I recommend a great grill with the addition of a smokehouse not to attach anything ►",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16026566",
+        "author": "m...k",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Wszystko ok. Bardzo dobra jakość za rozsądne pieniądze. Polecam",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-04-29 17:19:19",
+        "purchased": "2022-03-28 21:42:02",
+        "content_en": "Everything ok. Very good quality for reasonable money. I recommend",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12505773",
+        "author": "t...0",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "ok",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2020-05-24 09:44:15",
+        "purchased": "2020-05-07 22:44:34",
+        "content_en": "ok",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "17586717",
+        "author": "j...i",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Bardzo dobry. Spełnia moje oczekiwania",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2023-06-06 21:16:46",
+        "purchased": "2023-05-03 11:54:41",
+        "content_en": "Very good. Meets my expectations",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "7934899",
+        "author": "Konrad",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Ok",
+        "pros_pl": [
+            "bez zastrzeżeń",
+            "bardzo ładnie wykonany",
+            "duży ruszt",
+            "przemyślana budowa",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [
+            "jakość"
+        ],
+        "up_votes": 0,
+        "down_votes": 2,
+        "published": "2018-05-09 21:11:28",
+        "purchased": "2018-04-18 19:34:00",
+        "content_en": "Ok",
+        "pros_en": [
+            "unreservedly",
+            "very nicely made",
+            "large grate",
+            "thoughtful construction",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": [
+            "quality"
+        ]
+    },
+    {
+        "opinion_id": "16282818",
+        "author": "b...5",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "Wszystko ok. Piękny grill.",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-07-05 11:57:32",
+        "purchased": "2022-06-27 19:17:15",
+        "content_en": "Everything ok. A beautiful grill.",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "4378236",
+        "author": "Zbyszek",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "Wszystko zgodne  z opisem",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2017-01-26 20:09:11",
+        "purchased": "2017-01-19 14:10:00",
+        "content_en": "Everything in accordance with the description",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "11859895",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "JESZCZE NIE WYPRÓBOWANY",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2020-03-06 10:59:09",
+        "purchased": "2020-03-02 10:30:36",
+        "content_en": "Not tried yet",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16160886",
+        "author": "f...0",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Bardzo Dobry!",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-06-02 09:10:10",
+        "purchased": "2022-05-20 08:15:14",
+        "content_en": "Very good!",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "14405798",
+        "author": "a...0",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "wszystko OK",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2021-05-05 08:07:35",
+        "purchased": "2021-04-22 19:41:06",
+        "content_en": "Everything's fine",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16086477",
+        "author": "n...s",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "jest super",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-05-15 08:54:00",
+        "purchased": "2022-05-03 22:13:39",
+        "content_en": "It's great",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12373298",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "taki jak chciałem",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2020-05-08 10:28:24",
+        "purchased": "2020-04-21 09:47:00",
+        "content_en": "as I wanted",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "15984033",
+        "author": "m...1",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Super",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-04-20 17:08:58",
+        "purchased": "2022-03-20 20:22:54",
+        "content_en": "Great",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "14349166",
+        "author": "j...z",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Super jakość",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2021-04-23 20:34:21",
+        "purchased": "2021-04-20 14:02:16",
+        "content_en": "Great quality",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12408528",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Wszystko ok",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2020-05-12 22:02:41",
+        "purchased": "2020-04-27 22:19:06",
+        "content_en": "Everything's fine",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16262596",
+        "author": "s...e",
+        "recommend": true,
+        "stars": 4.5,
+        "content_pl": "Ok",
+        "pros_pl": [
+            "duży ruszt",
+            "szybkie rozpalenie",
+            "trwałość",
+            "wygląd"
+        ],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-06-29 09:38:56",
+        "purchased": "2022-05-27 14:22:24",
+        "content_en": "Ok",
+        "pros_en": [
+            "large grate",
+            "rapid lighting",
+            "durability",
+            "appearance"
+        ],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16142505",
+        "author": "g...6",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Ok",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-05-28 12:02:52",
+        "purchased": "2022-04-27 14:30:07",
+        "content_en": "Ok",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "16106126",
+        "author": "k...i",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Ok",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2022-05-19 21:36:27",
+        "purchased": "2022-05-10 13:46:05",
+        "content_en": "Ok",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "12345030",
+        "author": "Użytkownik Ceneo",
+        "recommend": true,
+        "stars": 5.0,
+        "content_pl": "Ok",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 1,
+        "published": "2020-05-05 21:36:47",
+        "purchased": "2020-04-21 21:22:01",
+        "content_en": "Ok",
+        "pros_en": [],
+        "cons_en": []
+    },
+    {
+        "opinion_id": "10605139",
+        "author": "Użytkownik Ceneo",
+        "recommend": null,
+        "stars": 5.0,
+        "content_pl": "5,0/5",
+        "pros_pl": [],
+        "cons_pl": [],
+        "up_votes": 0,
+        "down_votes": 0,
+        "published": "2019-06-01 18:03:38",
+        "purchased": null,
+        "content_en": "5.0/5",
+        "pros_en": [],
+        "cons_en": []
+    }
+]
