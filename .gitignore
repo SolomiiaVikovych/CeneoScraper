@@ -173,4 +173,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+pie_charts/
+opinions/
+bar_charts/
+cookie.json
+
 
